@@ -1,0 +1,8 @@
+com\steps_definition\Footer_Web_Steps.class
+com\steps_definition\Header_Web_Steps.class
+com\testRunners\Firefox_TestRunner.class
+com\steps_definition\CopyBlock_Web_Steps.class
+com\steps_definition\Test.class
+com\steps_definition\Demo_Web_Steps.class
+com\steps_definition\Hooks.class
+com\testRunners\Chrome_TestRunner.class
